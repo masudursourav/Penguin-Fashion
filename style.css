@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500&display=swap');
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 5em;
+    font: bold;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+h1,
+h2 {
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+
+.bg-pink {
+    background-color: rgba(255, 249, 250, 0.863);
+}
+
+.btn-primary {
+    background-color: #A4BC46;
+    border: none;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    padding: 18px 28px;
+    font-family: 'Oswald', sans-serif;
+    border-radius: 1em;
+}
+
+section {
+    margin-bottom: 4em;
+}
+
+.p-card {
+    border-radius: 1.5em;
+}
+
+.card-title {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    font-size: 1.5em;
+}
+
+.p-card img {
+    padding: 1.5em;
+    border-radius: 2.6em;
+}
+
+.p-card-footer {
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+    padding-bottom: 1em;
+}
+
+.first-color {
+    color: #FABE4C;
+}
